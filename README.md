@@ -1,4 +1,4 @@
-# FirstApp
+FirstApp
 
 Online Çalışma
 

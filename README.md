@@ -1,5 +1,3 @@
-FirstApp
-
 Online Çalışma
 
 Erkan
